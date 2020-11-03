@@ -1,0 +1,81 @@
+* {
+  margin: 0%;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px rgb(255, 66, 66),
+    0 0 5px rgb(235, 55, 55);
+  font-style: italic;
+  font-size: 30px;
+  letter-spacing: 5px;
+  padding-top: 50px;
+  padding-left: 10px;
+}
+.head {
+  display: flex;
+  justify-content: left;
+  padding-left: 50px;
+  padding-top: 5px;
+}
+.total {
+  border-radius: 10px;
+  background-color: #fcf4f9;
+  padding: 20px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#total {
+  padding-left: 10px;
+  font-size: 20px;
+}
+h4 {
+  color: #cf0f56;
+}
+.image {
+  width: 120px;
+  height: 120px;
+  border: 1px solid #ffbde9;
+  border-radius: 10px;
+  
+}
+li {
+  list-style: none;
+}
+.pink{
+  fill: red;
+}
+.photo{
+  margin-top: 30px;
+  width: 40px;
+  height: 40px;
+  padding-left: 5px;
+}
+.plus, .moins{
+background-color: rgb(185, 184, 184);
+color: white;
+font-size: 15px;
+margin: 0 5px;
+padding: 5px;
+}
+.article {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.articlesbébé{
+    border-radius: 10px;
+    background-color: #fcf4f9;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.text{
+    font-weight: 400;
+    padding-top: 50px;
+}
